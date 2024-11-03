@@ -1,0 +1,4 @@
+streamlit==1.23.0  # Make sure to replace with the version you're using
+mysql-connector-python==8.0.33
+requests==2.28.1   # Optional if you're making any HTTP requests
+Pillow==9.4.0      # For image handling
